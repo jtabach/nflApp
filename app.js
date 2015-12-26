@@ -1,0 +1,1 @@
+var nflApp = angular.module('nflApp', []);
