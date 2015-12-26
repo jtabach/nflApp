@@ -1,4 +1,4 @@
-nflApp.directive("", function() {
+nflApp.directive("sportsReport", function() {
     return {
         restrict: 'E',
         templateUrl: '',

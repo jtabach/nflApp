@@ -1,7 +1,7 @@
-nflApp.controller('mainController', ['$scope', function($scope) {
+nflApp.controller('mainController', ['$scope','$resource','$routeParams', function($scope, $resource, $routeParams) {
 
 }]);
 
-nflApp.controller('secondController', ['$scope', function($scope) {
+nflApp.controller('secondController', ['$scope','$resource','$routeParams', function($scope, $resource, $routeParams) {
 
 }]);

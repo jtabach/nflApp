@@ -1,1 +1,1 @@
-var nflApp = angular.module('nflApp', []);
+var nflApp = angular.module('nflApp', ['ngRoute', 'ngResource']);

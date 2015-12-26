@@ -8,4 +8,4 @@ nflApp.config(function ($routeProvider) {
         templateUrl: 'pages/second.hmtl',
         controller: 'secondController'
     })
-})
+});
